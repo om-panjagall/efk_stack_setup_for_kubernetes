@@ -1,0 +1,1 @@
+# efk_stack_setup_for_kubernetes
