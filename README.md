@@ -1,1 +1,1 @@
-# efk_stack_setup_for_kubernetes
+# EFK Stack Setup (Elasticsearch, Fluent-bit and Kibana) for Kubernetes Log Management
